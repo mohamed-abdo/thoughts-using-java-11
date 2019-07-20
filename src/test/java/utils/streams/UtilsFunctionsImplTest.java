@@ -1,4 +1,4 @@
-package utils;
+package utils.streams;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
